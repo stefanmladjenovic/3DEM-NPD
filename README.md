@@ -1,5 +1,7 @@
 # Overview
-This folder contains the files used to process the electron microscopy dataset for the publication Three-Dimensional Electron Microscopy for Nanoparticle Tumour Analysis by Mladjenovic et al. 
+This folder contains the files used to process the electron microscopy dataset for the publication Three-Dimensional Electron Microscopy for Nanoparticle Tumour Analysis by Mladjenovic et al. (2024)
+The paper is published in Proceedings of the National Academy of Sciences (PNAS) in 2024 with the title '3D electron microscopy for analyzing nanoparticles in the tumor endothelium'. 
+The link the paper is here: https://doi.org/10.1073/pnas.2406331121
 
 Below is a description of how the electron microscopy (EM) image stacks are processed. 
 
