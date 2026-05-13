@@ -3,6 +3,8 @@ This folder contains the files used to process the electron microscopy dataset f
 The paper is published in Proceedings of the National Academy of Sciences (PNAS) in 2024 with the title '3D electron microscopy for analyzing nanoparticles in the tumor endothelium'. 
 The link the paper is here: https://doi.org/10.1073/pnas.2406331121
 
+Check out a video of the dataset here: [![Volume 3D Electron Microscopy of Nanoparticles in Tumour Blood Vessel. Mladjenovic et al. PNAS 2025](https://www.youtube.com/watch?v=RVchqBVHlm0)](https://www.youtube.com/watch?v=RVchqBVHlm0)
+
 Below is a description of how the electron microscopy (EM) image stacks are processed. 
 
 
