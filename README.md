@@ -4,6 +4,7 @@ The paper is published in Proceedings of the National Academy of Sciences (PNAS)
 The link the paper is here: https://doi.org/10.1073/pnas.2406331121
 
 Check out a video of the dataset by pressing on the image below:
+
 [![Volume 3D Electron Microscopy of Nanoparticles in Tumour Blood Vessel. Mladjenovic et al. PNAS 2025](https://img.youtube.com/vi/RVchqBVHlm0/0.jpg)](https://www.youtube.com/watch?v=RVchqBVHlm0)
 
 Below is a description of how the electron microscopy (EM) image stacks are processed. 
